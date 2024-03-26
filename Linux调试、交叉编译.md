@@ -1,5 +1,6 @@
-1. Cmakelist.txt 与 CmakeSettings.json
-  CmakeSettings提供了一种灵活且可定制化的方式来配置CMake项目，使得项目的构建更加方便和高效\
+1. 调试选项连接linux机器
+2. Cmakelist.txt 与 CmakeSettings.json
+  CmakeSettings提供了一种灵活且可定制化的方式来配置CMake项目，使得项目的构建更加方便和高效
 eg:
 {
   "configurations": [
@@ -24,3 +25,4 @@ eg:
     }
   ]
 }
+3. 
